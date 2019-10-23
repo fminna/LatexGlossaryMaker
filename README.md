@@ -1,6 +1,6 @@
-# LatexGlossaryMaker
-Piccolo programma Java che crea automaticamente un Glossario.tex per documenti Latex.
+LatexGlossaryMaker
+Java program to automatically create a  Glossary.tex for Latex's documents.
 
-Per eseguirlo: 
-  1) aprire nel terminale la cartella che contiene il file.jar
-  2) Scrivere: 'java -jar LatexGlossaryMaker.jar' e premere invio!
+To execute it: 
+  1) open a terminal in the file.jar folder;
+  2) type: 'java -jar LatexGlossaryMaker.jar' run it by press enter!
