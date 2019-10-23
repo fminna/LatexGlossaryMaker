@@ -1,4 +1,4 @@
-LatexGlossaryMaker
+#LatexGlossaryMaker
 Java program to automatically create a  Glossary.tex for Latex's documents.
 
 To execute it: 
